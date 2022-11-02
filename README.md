@@ -154,11 +154,11 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Dennis Kinuthia - denniskinuthiww@gmail.com /
-[Github](https://github.com/tigawanna)
+Kevin Mmasi - kevinmmasi3@gmail.com /
+[Github](https://github.com/Itenyo)
 
 
-Nelly Maina - nellymaina095@gmail.com / [Github](https://github.com/Nellymaina)
+
 
 ## License
 Public Domain. No copy write protection. 
